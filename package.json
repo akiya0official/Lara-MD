@@ -1,12 +1,12 @@
 {
-  "name": "lara",
+  "name": "AKIYA OFFICIAL",
   "version": "1.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "description": "AKIYA OFFICIAL WhatsApp bot created akila sandaruwan With using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "start": "pm2 start index.js --deep-monitoring --attach --name AKIYA",
+    "stop": "pm2 stop AKIYA",
+    "restart": "pm2 restart AKIYA"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
